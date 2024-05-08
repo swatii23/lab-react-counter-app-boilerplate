@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  gap: 10%;
+  justify-content: center;
+}
+
+.buttons>p {
+  border: 1px solid black;
+  padding: 3% 5%;
+  color: black;
+  cursor: pointer;
+}
